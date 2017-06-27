@@ -1,0 +1,12 @@
+D:\CSE283\Lecture02-Examples\Example01\bin\Debug\Example01.exe.config
+D:\CSE283\Lecture02-Examples\Example01\bin\Debug\Example01.exe
+D:\CSE283\Lecture02-Examples\Example01\bin\Debug\Example01.pdb
+D:\CSE283\Lecture02-Examples\Example01\obj\Debug\Example01.csprojResolveAssemblyReference.cache
+D:\CSE283\Lecture02-Examples\Example01\obj\Debug\Example01.exe
+D:\CSE283\Lecture02-Examples\Example01\obj\Debug\Example01.pdb
+C:\Users\Peggy\Documents\MyFirstRepo\Lecture02-Examples\Example01\bin\Debug\Example01.exe.config
+C:\Users\Peggy\Documents\MyFirstRepo\Lecture02-Examples\Example01\obj\Debug\Example01.exe
+C:\Users\Peggy\Documents\MyFirstRepo\Lecture02-Examples\Example01\obj\Debug\Example01.pdb
+C:\Users\Peggy\Documents\MyFirstRepo\Lecture02-Examples\Example01\bin\Debug\Example01.exe
+C:\Users\Peggy\Documents\MyFirstRepo\Lecture02-Examples\Example01\bin\Debug\Example01.pdb
+C:\Users\Peggy\Documents\MyFirstRepo\Lecture02-Examples\Example01\obj\Debug\Example01.csprojResolveAssemblyReference.cache

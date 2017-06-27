@@ -1,0 +1,10 @@
+D:\CSE283\CommonLibraries\AppleStoreLibrary\bin\Debug\AppleStoreLibrary.dll
+D:\CSE283\CommonLibraries\AppleStoreLibrary\bin\Debug\AppleStoreLibrary.pdb
+D:\CSE283\CommonLibraries\AppleStoreLibrary\obj\Debug\AppleStoreLibrary.csprojResolveAssemblyReference.cache
+D:\CSE283\CommonLibraries\AppleStoreLibrary\obj\Debug\AppleStoreLibrary.dll
+D:\CSE283\CommonLibraries\AppleStoreLibrary\obj\Debug\AppleStoreLibrary.pdb
+C:\Users\Peggy\Documents\MyFirstRepo\CommonLibraries\AppleStoreLibrary\bin\Debug\AppleStoreLibrary.dll
+C:\Users\Peggy\Documents\MyFirstRepo\CommonLibraries\AppleStoreLibrary\bin\Debug\AppleStoreLibrary.pdb
+C:\Users\Peggy\Documents\MyFirstRepo\CommonLibraries\AppleStoreLibrary\obj\Debug\AppleStoreLibrary.csprojResolveAssemblyReference.cache
+C:\Users\Peggy\Documents\MyFirstRepo\CommonLibraries\AppleStoreLibrary\obj\Debug\AppleStoreLibrary.dll
+C:\Users\Peggy\Documents\MyFirstRepo\CommonLibraries\AppleStoreLibrary\obj\Debug\AppleStoreLibrary.pdb

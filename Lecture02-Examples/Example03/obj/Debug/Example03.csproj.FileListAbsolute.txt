@@ -1,0 +1,16 @@
+D:\CSE283\Lecture02-Examples\Example03\bin\Debug\Example03.exe.config
+D:\CSE283\Lecture02-Examples\Example03\bin\Debug\Example03.exe
+D:\CSE283\Lecture02-Examples\Example03\bin\Debug\Example03.pdb
+D:\CSE283\Lecture02-Examples\Example03\bin\Debug\StudentLibrary.dll
+D:\CSE283\Lecture02-Examples\Example03\bin\Debug\StudentLibrary.pdb
+D:\CSE283\Lecture02-Examples\Example03\obj\Debug\Example03.csprojResolveAssemblyReference.cache
+D:\CSE283\Lecture02-Examples\Example03\obj\Debug\Example03.exe
+D:\CSE283\Lecture02-Examples\Example03\obj\Debug\Example03.pdb
+C:\Users\Peggy\Documents\MyFirstRepo\Lecture02-Examples\Example03\bin\Debug\Example03.exe.config
+C:\Users\Peggy\Documents\MyFirstRepo\Lecture02-Examples\Example03\bin\Debug\Example03.exe
+C:\Users\Peggy\Documents\MyFirstRepo\Lecture02-Examples\Example03\bin\Debug\Example03.pdb
+C:\Users\Peggy\Documents\MyFirstRepo\Lecture02-Examples\Example03\bin\Debug\StudentLibrary.dll
+C:\Users\Peggy\Documents\MyFirstRepo\Lecture02-Examples\Example03\bin\Debug\StudentLibrary.pdb
+C:\Users\Peggy\Documents\MyFirstRepo\Lecture02-Examples\Example03\obj\Debug\Example03.csprojResolveAssemblyReference.cache
+C:\Users\Peggy\Documents\MyFirstRepo\Lecture02-Examples\Example03\obj\Debug\Example03.exe
+C:\Users\Peggy\Documents\MyFirstRepo\Lecture02-Examples\Example03\obj\Debug\Example03.pdb

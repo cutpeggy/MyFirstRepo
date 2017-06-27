@@ -1,0 +1,10 @@
+D:\CSE283\CommonLibraries\StudentLibrary\bin\Debug\StudentLibrary.dll
+D:\CSE283\CommonLibraries\StudentLibrary\bin\Debug\StudentLibrary.pdb
+D:\CSE283\CommonLibraries\StudentLibrary\obj\Debug\StudentLibrary.csprojResolveAssemblyReference.cache
+D:\CSE283\CommonLibraries\StudentLibrary\obj\Debug\StudentLibrary.dll
+D:\CSE283\CommonLibraries\StudentLibrary\obj\Debug\StudentLibrary.pdb
+C:\Users\Peggy\Documents\MyFirstRepo\CommonLibraries\StudentLibrary\bin\Debug\StudentLibrary.dll
+C:\Users\Peggy\Documents\MyFirstRepo\CommonLibraries\StudentLibrary\bin\Debug\StudentLibrary.pdb
+C:\Users\Peggy\Documents\MyFirstRepo\CommonLibraries\StudentLibrary\obj\Debug\StudentLibrary.csprojResolveAssemblyReference.cache
+C:\Users\Peggy\Documents\MyFirstRepo\CommonLibraries\StudentLibrary\obj\Debug\StudentLibrary.dll
+C:\Users\Peggy\Documents\MyFirstRepo\CommonLibraries\StudentLibrary\obj\Debug\StudentLibrary.pdb
