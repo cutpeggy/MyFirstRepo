@@ -18,7 +18,7 @@ namespace StudentLibrary
             this.IsConvertable = int.TryParse(score, out this.Value);
             if (this.IsConvertable)
             {
-                GPA = c.Convert(Value);
+                GPA = c.convert(Value);
             }
             return GPA;
         }

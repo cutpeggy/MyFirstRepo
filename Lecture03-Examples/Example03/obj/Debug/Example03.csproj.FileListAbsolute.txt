@@ -1,0 +1,10 @@
+D:\CSE283\Lecture03-Examples\Example03\bin\Debug\Example03.exe.config
+D:\CSE283\Lecture03-Examples\Example03\bin\Debug\Example03.exe
+D:\CSE283\Lecture03-Examples\Example03\bin\Debug\Example03.pdb
+D:\CSE283\Lecture03-Examples\Example03\bin\Debug\EasyMathLibrary.dll
+D:\CSE283\Lecture03-Examples\Example03\bin\Debug\PokemonRunLibrary.dll
+D:\CSE283\Lecture03-Examples\Example03\bin\Debug\EasyMathLibrary.pdb
+D:\CSE283\Lecture03-Examples\Example03\bin\Debug\PokemonRunLibrary.pdb
+D:\CSE283\Lecture03-Examples\Example03\obj\Debug\Example03.csprojResolveAssemblyReference.cache
+D:\CSE283\Lecture03-Examples\Example03\obj\Debug\Example03.exe
+D:\CSE283\Lecture03-Examples\Example03\obj\Debug\Example03.pdb

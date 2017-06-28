@@ -1,0 +1,5 @@
+D:\CSE283\Lecture03-Examples\CodeOrgLibrary\bin\Debug\CodeOrgLibrary.dll
+D:\CSE283\Lecture03-Examples\CodeOrgLibrary\bin\Debug\CodeOrgLibrary.pdb
+D:\CSE283\Lecture03-Examples\CodeOrgLibrary\obj\Debug\CodeOrgLibrary.csprojResolveAssemblyReference.cache
+D:\CSE283\Lecture03-Examples\CodeOrgLibrary\obj\Debug\CodeOrgLibrary.dll
+D:\CSE283\Lecture03-Examples\CodeOrgLibrary\obj\Debug\CodeOrgLibrary.pdb

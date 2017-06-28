@@ -8,7 +8,7 @@ namespace StudentLibrary
 {
     public class GpaConvertor
     {
-        public float Convert(int score)
+        public float convert(int score)
         {
             if (score >= 90)
             {
