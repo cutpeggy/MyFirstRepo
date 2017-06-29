@@ -3,3 +3,5 @@ D:\CSE283\CommonLibraries\PokemonRunLibrary\bin\Debug\PokemonRunLibrary.pdb
 D:\CSE283\CommonLibraries\PokemonRunLibrary\obj\Debug\PokemonRunLibrary.csprojResolveAssemblyReference.cache
 D:\CSE283\CommonLibraries\PokemonRunLibrary\obj\Debug\PokemonRunLibrary.dll
 D:\CSE283\CommonLibraries\PokemonRunLibrary\obj\Debug\PokemonRunLibrary.pdb
+D:\CSE283\CommonLibraries\PokemonRunLibrary\bin\Debug\EasyMathLibrary.dll
+D:\CSE283\CommonLibraries\PokemonRunLibrary\bin\Debug\EasyMathLibrary.pdb

@@ -40,9 +40,17 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="GameController.cs" />
+    <Compile Include="Player.cs" />
     <Compile Include="Pokemon.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Team.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\EasyMathLibrary\EasyMathLibrary.csproj">
+      <Project>{c62c72c1-0d47-41b8-bab6-a0fe5334e15d}</Project>
+      <Name>EasyMathLibrary</Name>
+    </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 

@@ -1,0 +1,13 @@
+D:\CSE283\Lecture04-Examples\PokemonRun\bin\Debug\PokemonRun.exe.config
+D:\CSE283\Lecture04-Examples\PokemonRun\bin\Debug\PokemonRun.exe
+D:\CSE283\Lecture04-Examples\PokemonRun\bin\Debug\PokemonRun.pdb
+D:\CSE283\Lecture04-Examples\PokemonRun\bin\Debug\EasyMathLibrary.dll
+D:\CSE283\Lecture04-Examples\PokemonRun\bin\Debug\PokemonRunLibrary.dll
+D:\CSE283\Lecture04-Examples\PokemonRun\bin\Debug\EasyMathLibrary.pdb
+D:\CSE283\Lecture04-Examples\PokemonRun\bin\Debug\PokemonRunLibrary.pdb
+D:\CSE283\Lecture04-Examples\PokemonRun\obj\Debug\PokemonRun.csprojResolveAssemblyReference.cache
+D:\CSE283\Lecture04-Examples\PokemonRun\obj\Debug\PokemonRun.Form1.resources
+D:\CSE283\Lecture04-Examples\PokemonRun\obj\Debug\PokemonRun.Properties.Resources.resources
+D:\CSE283\Lecture04-Examples\PokemonRun\obj\Debug\PokemonRun.csproj.GenerateResource.Cache
+D:\CSE283\Lecture04-Examples\PokemonRun\obj\Debug\PokemonRun.exe
+D:\CSE283\Lecture04-Examples\PokemonRun\obj\Debug\PokemonRun.pdb
