@@ -3,3 +3,8 @@ D:\CSE283\CommonLibraries\EasyMathLibrary\bin\Debug\EasyMathLibrary.pdb
 D:\CSE283\CommonLibraries\EasyMathLibrary\obj\Debug\EasyMathLibrary.dll
 D:\CSE283\CommonLibraries\EasyMathLibrary\obj\Debug\EasyMathLibrary.pdb
 D:\CSE283\CommonLibraries\EasyMathLibrary\obj\Debug\EasyMathLibrary.csprojResolveAssemblyReference.cache
+C:\Users\Peggy\Documents\MyFirstRepo\CommonLibraries\EasyMathLibrary\bin\Debug\EasyMathLibrary.dll
+C:\Users\Peggy\Documents\MyFirstRepo\CommonLibraries\EasyMathLibrary\bin\Debug\EasyMathLibrary.pdb
+C:\Users\Peggy\Documents\MyFirstRepo\CommonLibraries\EasyMathLibrary\obj\Debug\EasyMathLibrary.csprojResolveAssemblyReference.cache
+C:\Users\Peggy\Documents\MyFirstRepo\CommonLibraries\EasyMathLibrary\obj\Debug\EasyMathLibrary.dll
+C:\Users\Peggy\Documents\MyFirstRepo\CommonLibraries\EasyMathLibrary\obj\Debug\EasyMathLibrary.pdb

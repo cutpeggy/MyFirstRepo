@@ -22,5 +22,18 @@ namespace PokemonRunLibrary
         public int PowerUpCandy;
         public int PowerStardust;
         public int EvolveCandy;
+
+        public string ImageFileName
+        {
+            get
+            {
+                if (this.Number < 10)
+                    return "00" + this.Number;
+                else if (Number >= 10 && Number < 100)
+                    return "0" + this.Number;
+                else
+                    return this.Number.ToString();
+            }
+        }
     }
 }
