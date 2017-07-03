@@ -31,7 +31,7 @@ namespace PokemonRun
             this.pokemon = pokemon;
             this.Name = pokemon.Name;
 
-            this.LinkLabel.Text = pokemon.Name;
+            this.cpLabel.Text = pokemon.Name;
             this.PictureBox.Image = (Image)Properties.Resources.ResourceManager.GetObject(pokemon.ImageFileName);
         }
 
@@ -41,10 +41,10 @@ namespace PokemonRun
             this.Name = pokemon.Name;
             this.TabIndex = 0;
 
-            this.LinkLabel.Text = pokemon.Name;
+            this.cpLabel.Text = pokemon.Name;
             this.PictureBox.Image = (Image)Properties.Resources.ResourceManager.GetObject(pokemon.ImageFileName);
 
-            this.Size = new Size(200, 266);
+            this.Size = new Size(170, 215);
             int x = Pokemon.RandomGenerator.Next(0, formSize.Width - this.Width + 1);
             int y = Pokemon.RandomGenerator.Next(0, formSize.Height - this.Height + 1);
             this.Location = new Point(x, y);
@@ -55,7 +55,7 @@ namespace PokemonRun
             BattleScreen battleScreen = new BattleScreen();
             battleScreen.battleTitleLabel.Text = "發現野生的" + pokemon.Name;
             battleScreen.pokemonBox.PictureBox.Image = this.PictureBox.Image;
-            battleScreen.pokemonBox.LinkLabel.Text = "CP " + pokemon.CP;
+            battleScreen.pokemonBox.cpLabel.Text = "CP " + pokemon.CP;
             battleScreen.Show();
         }
     }

@@ -1593,6 +1593,16 @@ namespace PokemonRun.Properties {
         /// <summary>
         ///   查詢類型 System.Drawing.Bitmap 的當地語系化資源。
         /// </summary>
+        internal static System.Drawing.Bitmap battle_sun {
+            get {
+                object obj = ResourceManager.GetObject("battle_sun", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   查詢類型 System.Drawing.Bitmap 的當地語系化資源。
+        /// </summary>
         internal static System.Drawing.Bitmap battle1 {
             get {
                 object obj = ResourceManager.GetObject("battle1", resourceCulture);
@@ -1606,6 +1616,16 @@ namespace PokemonRun.Properties {
         internal static System.Drawing.Bitmap gym {
             get {
                 object obj = ResourceManager.GetObject("gym", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   查詢類型 System.Drawing.Bitmap 的當地語系化資源。
+        /// </summary>
+        internal static System.Drawing.Bitmap Gym1 {
+            get {
+                object obj = ResourceManager.GetObject("Gym1", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }

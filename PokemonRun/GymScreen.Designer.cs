@@ -43,7 +43,7 @@
             this.hpLabel.BackColor = System.Drawing.Color.Transparent;
             this.hpLabel.Font = new System.Drawing.Font("微軟正黑體", 15.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(136)));
             this.hpLabel.ForeColor = System.Drawing.SystemColors.ControlText;
-            this.hpLabel.Location = new System.Drawing.Point(186, 9);
+            this.hpLabel.Location = new System.Drawing.Point(524, 65);
             this.hpLabel.Name = "hpLabel";
             this.hpLabel.Size = new System.Drawing.Size(112, 28);
             this.hpLabel.TabIndex = 1;
@@ -52,7 +52,7 @@
             // pictureBox1
             // 
             this.pictureBox1.BackColor = System.Drawing.Color.Transparent;
-            this.pictureBox1.Location = new System.Drawing.Point(287, 9);
+            this.pictureBox1.Location = new System.Drawing.Point(488, 121);
             this.pictureBox1.Name = "pictureBox1";
             this.pictureBox1.Size = new System.Drawing.Size(186, 187);
             this.pictureBox1.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
@@ -63,7 +63,7 @@
             // pictureBox2
             // 
             this.pictureBox2.BackColor = System.Drawing.Color.Transparent;
-            this.pictureBox2.Location = new System.Drawing.Point(82, 134);
+            this.pictureBox2.Location = new System.Drawing.Point(41, 318);
             this.pictureBox2.Name = "pictureBox2";
             this.pictureBox2.Size = new System.Drawing.Size(186, 173);
             this.pictureBox2.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
@@ -75,7 +75,7 @@
             this.pokemon2HpLabel.BackColor = System.Drawing.Color.Transparent;
             this.pokemon2HpLabel.Font = new System.Drawing.Font("微軟正黑體", 15.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(136)));
             this.pokemon2HpLabel.ForeColor = System.Drawing.SystemColors.ControlText;
-            this.pokemon2HpLabel.Location = new System.Drawing.Point(273, 255);
+            this.pokemon2HpLabel.Location = new System.Drawing.Point(80, 262);
             this.pokemon2HpLabel.Name = "pokemon2HpLabel";
             this.pokemon2HpLabel.Size = new System.Drawing.Size(112, 28);
             this.pokemon2HpLabel.TabIndex = 4;
@@ -91,8 +91,8 @@
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 12F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.BackgroundImage = global::PokemonRun.Properties.Resources.battle1;
-            this.ClientSize = new System.Drawing.Size(514, 288);
+            this.BackgroundImage = global::PokemonRun.Properties.Resources.Gym1;
+            this.ClientSize = new System.Drawing.Size(798, 478);
             this.Controls.Add(this.pokemon2HpLabel);
             this.Controls.Add(this.pictureBox2);
             this.Controls.Add(this.pictureBox1);

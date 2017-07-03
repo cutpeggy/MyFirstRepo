@@ -40,21 +40,32 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Beedrill.cs" />
     <Compile Include="Blastoise.cs" />
     <Compile Include="Bulbasaur.cs" />
+    <Compile Include="Butterfree.cs" />
+    <Compile Include="Caterpie.cs" />
     <Compile Include="Charizard.cs" />
     <Compile Include="Charmander.cs" />
     <Compile Include="Charmeleon.cs" />
     <Compile Include="GameController.cs" />
     <Compile Include="Ivysaur.cs" />
+    <Compile Include="Kakuna.cs" />
+    <Compile Include="Metapod.cs" />
+    <Compile Include="Pidgeot.cs" />
+    <Compile Include="Pidgeotto.cs" />
+    <Compile Include="Pidgey.cs" />
     <Compile Include="Player.cs" />
     <Compile Include="Pokemon.cs" />
     <Compile Include="PokemonFactory.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Raticate.cs" />
+    <Compile Include="Rattata.cs" />
     <Compile Include="Squirtle.cs" />
     <Compile Include="Team.cs" />
     <Compile Include="Venusaur.cs" />
     <Compile Include="Wartortle.cs" />
+    <Compile Include="Weedle.cs" />
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\EasyMathLibrary\EasyMathLibrary.csproj">

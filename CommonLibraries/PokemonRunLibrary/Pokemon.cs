@@ -8,7 +8,10 @@ using EasyMathLibrary;
 namespace PokemonRunLibrary
 {
     public enum PokemonType
-    { GRASS, POISSON, FIRE, FLYING, DRAGON, WATER, BUG }
+    {
+        GRASS, POISSON, FIRE, FLYING, DRAGON, WATER, BUG, NORMAL,
+        ELECTRIC, GROUND, FAIRY, FIGHTING, PSYCHIC, ROCK, STEEL, ICE, GHOST
+    }
 
     public class Pokemon
     {

@@ -48,28 +48,27 @@
             // pokemonBox
             // 
             this.pokemonBox.BackColor = System.Drawing.Color.Transparent;
-            this.pokemonBox.Location = new System.Drawing.Point(12, 142);
+            this.pokemonBox.Location = new System.Drawing.Point(19, 127);
             this.pokemonBox.Name = "pokemonBox";
-            this.pokemonBox.Size = new System.Drawing.Size(199, 246);
-            this.pokemonBox.TabIndex = 0;
+            this.pokemonBox.Size = new System.Drawing.Size(170, 215);
+            this.pokemonBox.TabIndex = 2;
             // 
             // GymBox
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 12F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.Color.Transparent;
-            this.Controls.Add(this.pictureBox1);
             this.Controls.Add(this.pokemonBox);
+            this.Controls.Add(this.pictureBox1);
             this.Name = "GymBox";
-            this.Size = new System.Drawing.Size(226, 403);
+            this.Size = new System.Drawing.Size(212, 336);
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).EndInit();
             this.ResumeLayout(false);
 
         }
 
         #endregion
-
-        private PokemonBox pokemonBox;
         private System.Windows.Forms.PictureBox pictureBox1;
+        public PokemonBox pokemonBox;
     }
 }

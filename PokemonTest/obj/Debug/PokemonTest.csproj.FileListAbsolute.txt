@@ -8,3 +8,13 @@ D:\CSE283\PokemonTest\bin\Debug\PokemonRunLibrary.pdb
 D:\CSE283\PokemonTest\bin\Debug\EasyMathLibrary.pdb
 D:\CSE283\PokemonTest\obj\Debug\PokemonTest.exe
 D:\CSE283\PokemonTest\obj\Debug\PokemonTest.pdb
+C:\Users\Peggy\Documents\MyFirstRepo\PokemonTest\bin\Debug\PokemonTest.exe.config
+C:\Users\Peggy\Documents\MyFirstRepo\PokemonTest\bin\Debug\PokemonTest.exe
+C:\Users\Peggy\Documents\MyFirstRepo\PokemonTest\bin\Debug\PokemonTest.pdb
+C:\Users\Peggy\Documents\MyFirstRepo\PokemonTest\bin\Debug\PokemonRunLibrary.dll
+C:\Users\Peggy\Documents\MyFirstRepo\PokemonTest\bin\Debug\EasyMathLibrary.dll
+C:\Users\Peggy\Documents\MyFirstRepo\PokemonTest\bin\Debug\PokemonRunLibrary.pdb
+C:\Users\Peggy\Documents\MyFirstRepo\PokemonTest\bin\Debug\EasyMathLibrary.pdb
+C:\Users\Peggy\Documents\MyFirstRepo\PokemonTest\obj\Debug\PokemonTest.csprojResolveAssemblyReference.cache
+C:\Users\Peggy\Documents\MyFirstRepo\PokemonTest\obj\Debug\PokemonTest.exe
+C:\Users\Peggy\Documents\MyFirstRepo\PokemonTest\obj\Debug\PokemonTest.pdb

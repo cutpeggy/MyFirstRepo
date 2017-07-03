@@ -9,7 +9,7 @@ namespace PokemonRunLibrary
 {
     public class Charmander : Pokemon
     {
-        public Charmander()
+        public Charmander() : base()
         {
             Name = "小火龍";
             Number = 4;
