@@ -26,15 +26,28 @@ namespace PokemonRun
             this.pokemon = pokemon;
         }
 
-        public void Render(Point location)
+        public void Render(Pokemon pokemon)
+        {
+            this.pokemon = pokemon;
+            this.Name = pokemon.Name;
+
+            this.LinkLabel.Text = pokemon.Name;
+            this.PictureBox.Image = (Image)Properties.Resources.ResourceManager.GetObject(pokemon.ImageFileName);
+        }
+
+        public void Render(Size formSize)
         {
             this.BackColor = Color.Transparent;
             this.Name = pokemon.Name;
-            this.Location = location;
             this.TabIndex = 0;
 
             this.LinkLabel.Text = pokemon.Name;
             this.PictureBox.Image = (Image)Properties.Resources.ResourceManager.GetObject(pokemon.ImageFileName);
+
+            this.Size = new Size(200, 266);
+            int x = Pokemon.RandomGenerator.Next(0, formSize.Width - this.Width + 1);
+            int y = Pokemon.RandomGenerator.Next(0, formSize.Height - this.Height + 1);
+            this.Location = new Point(x, y);
         }
 
         private void PokemonBox_Click(object sender, EventArgs e)

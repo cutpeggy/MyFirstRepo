@@ -1,0 +1,10 @@
+D:\CSE283\PokemonTest\bin\Debug\PokemonTest.exe.config
+D:\CSE283\PokemonTest\obj\Debug\PokemonTest.csprojResolveAssemblyReference.cache
+D:\CSE283\PokemonTest\bin\Debug\PokemonTest.exe
+D:\CSE283\PokemonTest\bin\Debug\PokemonTest.pdb
+D:\CSE283\PokemonTest\bin\Debug\PokemonRunLibrary.dll
+D:\CSE283\PokemonTest\bin\Debug\EasyMathLibrary.dll
+D:\CSE283\PokemonTest\bin\Debug\PokemonRunLibrary.pdb
+D:\CSE283\PokemonTest\bin\Debug\EasyMathLibrary.pdb
+D:\CSE283\PokemonTest\obj\Debug\PokemonTest.exe
+D:\CSE283\PokemonTest\obj\Debug\PokemonTest.pdb

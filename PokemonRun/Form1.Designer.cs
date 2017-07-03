@@ -30,6 +30,7 @@
         {
             this.components = new System.ComponentModel.Container();
             this.timer1 = new System.Windows.Forms.Timer(this.components);
+            this.gymBox1 = new PokemonRun.GymBox();
             this.SuspendLayout();
             // 
             // timer1
@@ -38,12 +39,21 @@
             this.timer1.Interval = 500;
             this.timer1.Tick += new System.EventHandler(this.timer1_Tick);
             // 
+            // gymBox1
+            // 
+            this.gymBox1.BackColor = System.Drawing.Color.Transparent;
+            this.gymBox1.Location = new System.Drawing.Point(246, 62);
+            this.gymBox1.Name = "gymBox1";
+            this.gymBox1.Size = new System.Drawing.Size(226, 403);
+            this.gymBox1.TabIndex = 0;
+            // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 12F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackgroundImage = global::PokemonRun.Properties.Resources.ntuMap;
             this.ClientSize = new System.Drawing.Size(784, 662);
+            this.Controls.Add(this.gymBox1);
             this.Name = "Form1";
             this.Text = "Form1";
             this.ResumeLayout(false);
@@ -52,6 +62,7 @@
 
         #endregion
         private System.Windows.Forms.Timer timer1;
+        private GymBox gymBox1;
     }
 }
 

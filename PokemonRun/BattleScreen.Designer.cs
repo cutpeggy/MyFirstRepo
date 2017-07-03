@@ -29,8 +29,8 @@
         private void InitializeComponent()
         {
             this.pictureBox1 = new System.Windows.Forms.PictureBox();
-            this.battleTitleLabel = new System.Windows.Forms.Label();
             this.pokemonBox = new PokemonRun.PokemonBox();
+            this.battleTitleLabel = new System.Windows.Forms.Label();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).BeginInit();
             this.SuspendLayout();
             // 
@@ -45,19 +45,6 @@
             this.pictureBox1.TabIndex = 0;
             this.pictureBox1.TabStop = false;
             // 
-            // battleTitleLabel
-            // 
-            this.battleTitleLabel.AutoSize = true;
-            this.battleTitleLabel.BackColor = System.Drawing.Color.Transparent;
-            this.battleTitleLabel.Font = new System.Drawing.Font("微軟正黑體", 15.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(136)));
-            this.battleTitleLabel.ForeColor = System.Drawing.SystemColors.Control;
-            this.battleTitleLabel.Location = new System.Drawing.Point(282, 32);
-            this.battleTitleLabel.Name = "battleTitleLabel";
-            this.battleTitleLabel.Size = new System.Drawing.Size(117, 27);
-            this.battleTitleLabel.TabIndex = 2;
-            this.battleTitleLabel.Text = "發現野生的";
-            this.battleTitleLabel.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
-            // 
             // pokemonBox
             // 
             this.pokemonBox.BackColor = System.Drawing.Color.Transparent;
@@ -65,6 +52,18 @@
             this.pokemonBox.Name = "pokemonBox";
             this.pokemonBox.Size = new System.Drawing.Size(201, 258);
             this.pokemonBox.TabIndex = 1;
+            // 
+            // battleTitleLabel
+            // 
+            this.battleTitleLabel.AutoSize = true;
+            this.battleTitleLabel.BackColor = System.Drawing.Color.Transparent;
+            this.battleTitleLabel.Font = new System.Drawing.Font("微軟正黑體", 18F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(136)));
+            this.battleTitleLabel.ForeColor = System.Drawing.SystemColors.Control;
+            this.battleTitleLabel.Location = new System.Drawing.Point(299, 28);
+            this.battleTitleLabel.Name = "battleTitleLabel";
+            this.battleTitleLabel.Size = new System.Drawing.Size(82, 31);
+            this.battleTitleLabel.TabIndex = 2;
+            this.battleTitleLabel.Text = "label1";
             // 
             // BattleScreen
             // 

@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using EasyMathLibrary;
 
 namespace PokemonRunLibrary
 {
@@ -11,6 +12,8 @@ namespace PokemonRunLibrary
 
     public class Pokemon
     {
+        private static Random random;
+
         public int Number;
         public string Name;
         public int HP;
@@ -33,6 +36,23 @@ namespace PokemonRunLibrary
                     return "0" + this.Number;
                 else
                     return this.Number.ToString();
+            }
+        }
+
+        public Pokemon()
+        {
+            CP = Pokemon.RandomGenerator.Next(450, 500);
+            Weight = Pokemon.RandomGenerator.NextDouble(5.0, 7.2);
+            Height = Pokemon.RandomGenerator.NextDouble(0.5, 0.88);
+        }
+
+        public static Random RandomGenerator
+        {
+            get
+            {
+                if (random == null)
+                    random = new Random();
+                return random;
             }
         }
     }

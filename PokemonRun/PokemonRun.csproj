@@ -58,6 +58,18 @@
     <Compile Include="Form1.Designer.cs">
       <DependentUpon>Form1.cs</DependentUpon>
     </Compile>
+    <Compile Include="GymBox.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="GymBox.Designer.cs">
+      <DependentUpon>GymBox.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GymScreen.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GymScreen.Designer.cs">
+      <DependentUpon>GymScreen.cs</DependentUpon>
+    </Compile>
     <Compile Include="PokemonBox.cs">
       <SubType>UserControl</SubType>
     </Compile>
@@ -71,6 +83,12 @@
     </EmbeddedResource>
     <EmbeddedResource Include="Form1.resx">
       <DependentUpon>Form1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GymBox.resx">
+      <DependentUpon>GymBox.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GymScreen.resx">
+      <DependentUpon>GymScreen.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="PokemonBox.resx">
       <DependentUpon>PokemonBox.cs</DependentUpon>
@@ -572,6 +590,15 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="Resources\Ball.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\battle1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\gym.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\小火龍.png" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
