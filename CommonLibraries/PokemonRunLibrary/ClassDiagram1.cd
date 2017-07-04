@@ -1,100 +1,198 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="PokemonRunLibrary.Beedrill" Collapsed="true">
+    <Position X="2.75" Y="8.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Beedrill.cs</FileName>
+    </TypeIdentifier>
+  </Class>
   <Class Name="PokemonRunLibrary.Blastoise" Collapsed="true">
-    <Position X="2.75" Y="4.75" Width="1.5" />
+    <Position X="11.75" Y="8.25" Width="1.5" />
     <TypeIdentifier>
       <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
       <FileName>Blastoise.cs</FileName>
     </TypeIdentifier>
   </Class>
   <Class Name="PokemonRunLibrary.Bulbasaur" Collapsed="true">
-    <Position X="0.5" Y="1.75" Width="1.5" />
+    <Position X="5" Y="5.25" Width="1.5" />
     <TypeIdentifier>
       <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
       <FileName>Bulbasaur.cs</FileName>
     </TypeIdentifier>
   </Class>
+  <Class Name="PokemonRunLibrary.Butterfree" Collapsed="true">
+    <Position X="14" Y="8.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Butterfree.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PokemonRunLibrary.Caterpie" Collapsed="true">
+    <Position X="14" Y="5.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Caterpie.cs</FileName>
+    </TypeIdentifier>
+  </Class>
   <Class Name="PokemonRunLibrary.Charizard" Collapsed="true">
-    <Position X="5" Y="4.75" Width="1.5" />
+    <Position X="0.5" Y="8.25" Width="1.5" />
     <TypeIdentifier>
       <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
       <FileName>Charizard.cs</FileName>
     </TypeIdentifier>
   </Class>
   <Class Name="PokemonRunLibrary.Charmander" Collapsed="true">
-    <Position X="5" Y="1.75" Width="1.5" />
+    <Position X="0.5" Y="5.25" Width="1.5" />
     <TypeIdentifier>
       <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
       <FileName>Charmander.cs</FileName>
     </TypeIdentifier>
   </Class>
   <Class Name="PokemonRunLibrary.Charmeleon" Collapsed="true">
-    <Position X="5" Y="3.25" Width="1.5" />
+    <Position X="0.5" Y="6.75" Width="1.5" />
     <TypeIdentifier>
       <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
       <FileName>Charmeleon.cs</FileName>
     </TypeIdentifier>
   </Class>
   <Class Name="PokemonRunLibrary.GameController" Collapsed="true">
-    <Position X="7.5" Y="0.5" Width="1.5" />
+    <Position X="16.5" Y="0.5" Width="1.5" />
     <TypeIdentifier>
-      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAIAAAABAEQAAEEAAAA=</HashCode>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAIAAAABAAAAAAEAAAA=</HashCode>
       <FileName>GameController.cs</FileName>
     </TypeIdentifier>
   </Class>
   <Class Name="PokemonRunLibrary.Ivysaur" Collapsed="true">
-    <Position X="0.5" Y="3.25" Width="1.5" />
+    <Position X="5" Y="6.75" Width="1.5" />
     <TypeIdentifier>
       <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
       <FileName>Ivysaur.cs</FileName>
     </TypeIdentifier>
   </Class>
+  <Class Name="PokemonRunLibrary.Kakuna" Collapsed="true">
+    <Position X="2.75" Y="6.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Kakuna.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PokemonRunLibrary.Metapod" Collapsed="true">
+    <Position X="14" Y="6.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Metapod.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PokemonRunLibrary.Pidgeot" Collapsed="true">
+    <Position X="7.25" Y="8.25" Width="1.5" />
+    <InheritanceLine Type="PokemonRunLibrary.Pidgeotto" ManuallyRouted="true" FixedFromPoint="true">
+      <Path>
+        <Point X="8" Y="7.441" />
+        <Point X="8" Y="8.25" />
+      </Path>
+    </InheritanceLine>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Pidgeot.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PokemonRunLibrary.Pidgeotto" Collapsed="true">
+    <Position X="7.25" Y="6.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Pidgeotto.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PokemonRunLibrary.Pidgey" Collapsed="true">
+    <Position X="7.25" Y="5.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Pidgey.cs</FileName>
+    </TypeIdentifier>
+  </Class>
   <Class Name="PokemonRunLibrary.Player" Collapsed="true">
-    <Position X="9.25" Y="0.5" Width="1.5" />
+    <Position X="18.25" Y="0.5" Width="1.5" />
     <TypeIdentifier>
       <HashCode>AAAAAAAAAAAACQAAAACAAAQAAAAAAAAAAAQAgAAEAAA=</HashCode>
       <FileName>Player.cs</FileName>
     </TypeIdentifier>
   </Class>
-  <Class Name="PokemonRunLibrary.Pokemon" Collapsed="true">
-    <Position X="2.75" Y="0.5" Width="1.5" />
+  <Class Name="PokemonRunLibrary.Pokemon">
+    <Position X="6.25" Y="0.5" Width="1.5" />
     <TypeIdentifier>
-      <HashCode>AAAAAAAABAAAAAAAEMCAAASCQCAAAAAAAQAAAAAAAQA=</HashCode>
+      <HashCode>AAAAAAAABBAAAAAAEMCAAASCQCAAAAAAAQQAAAAAAQA=</HashCode>
       <FileName>Pokemon.cs</FileName>
     </TypeIdentifier>
   </Class>
+  <Class Name="PokemonRunLibrary.PokemonFactory" Collapsed="true">
+    <Position X="16.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAECAAAA=</HashCode>
+      <FileName>PokemonFactory.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PokemonRunLibrary.Raticate" Collapsed="true">
+    <Position X="9.5" Y="6.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Raticate.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PokemonRunLibrary.Rattata" Collapsed="true">
+    <Position X="9.5" Y="5.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Rattata.cs</FileName>
+    </TypeIdentifier>
+  </Class>
   <Class Name="PokemonRunLibrary.Squirtle" Collapsed="true">
-    <Position X="2.75" Y="1.75" Width="1.5" />
+    <Position X="11.75" Y="5.25" Width="1.5" />
+    <InheritanceLine Type="PokemonRunLibrary.Pokemon" ManuallyRouted="true" FixedToPoint="true">
+      <Path>
+        <Point X="7" Y="4.814" />
+        <Point X="7" Y="4.945" />
+        <Point X="12.562" Y="4.945" />
+        <Point X="12.562" Y="5.25" />
+      </Path>
+    </InheritanceLine>
     <TypeIdentifier>
       <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
       <FileName>Squirtle.cs</FileName>
     </TypeIdentifier>
   </Class>
   <Class Name="PokemonRunLibrary.Team" Collapsed="true">
-    <Position X="7.5" Y="1.5" Width="1.5" />
+    <Position X="18.25" Y="1.5" Width="1.5" />
     <TypeIdentifier>
       <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAA=</HashCode>
       <FileName>Team.cs</FileName>
     </TypeIdentifier>
   </Class>
   <Class Name="PokemonRunLibrary.Venusaur" Collapsed="true">
-    <Position X="0.5" Y="4.75" Width="1.5" />
+    <Position X="5" Y="8.25" Width="1.5" />
     <TypeIdentifier>
       <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
       <FileName>Venusaur.cs</FileName>
     </TypeIdentifier>
   </Class>
   <Class Name="PokemonRunLibrary.Wartortle" Collapsed="true">
-    <Position X="2.75" Y="3.25" Width="1.5" />
+    <Position X="11.75" Y="6.75" Width="1.5" />
     <TypeIdentifier>
       <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
       <FileName>Wartortle.cs</FileName>
     </TypeIdentifier>
   </Class>
-  <Enum Name="PokemonRunLibrary.PokemonType" Collapsed="true">
-    <Position X="7.5" Y="2.75" Width="1.5" />
+  <Class Name="PokemonRunLibrary.Weedle" Collapsed="true">
+    <Position X="2.75" Y="5.25" Width="1.5" />
     <TypeIdentifier>
-      <HashCode>ACAAAAAAAEgAAAAAAAAACCAAgAAAAAAAAAAAQAAAAAA=</HashCode>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Weedle.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Enum Name="PokemonRunLibrary.PokemonType" Collapsed="true">
+    <Position X="16.5" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AGgAAAQAAGgAAEAAAAAACCAAgAAQAAAAAQAQQABAAAA=</HashCode>
       <FileName>Pokemon.cs</FileName>
     </TypeIdentifier>
   </Enum>

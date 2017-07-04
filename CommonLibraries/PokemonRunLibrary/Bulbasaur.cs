@@ -21,5 +21,15 @@ namespace PokemonRunLibrary
             Type.Add(PokemonType.GRASS);
             Type.Add(PokemonType.POISSON);
         }
+
+        public override void Attack(Pokemon other)
+        {
+            if (other.Type[0] == PokemonType.FIRE)
+                other.CurrentHP -= 3;
+            else if (other.Type[0] == PokemonType.BUG)
+                other.CurrentHP -= 20;
+            else
+                base.Attack(other);
+        }
     }
 }

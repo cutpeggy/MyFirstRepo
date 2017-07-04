@@ -58,8 +58,8 @@
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 12F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.Color.Transparent;
-            this.Controls.Add(this.pokemonBox);
             this.Controls.Add(this.pictureBox1);
+            this.Controls.Add(this.pokemonBox);
             this.Name = "GymBox";
             this.Size = new System.Drawing.Size(212, 336);
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).EndInit();

@@ -20,7 +20,7 @@ namespace PokemonRunLibrary
         public int Number;
         public string Name;
         public int HP;
-        public int CurrentHP;
+        private int currentHP;
         public int CP;
         public double Weight;
         public double Height;
@@ -57,6 +57,34 @@ namespace PokemonRunLibrary
                     random = new Random();
                 return random;
             }
+        }
+
+        public int CurrentHP
+        {
+            get
+            {
+                return currentHP;
+            }
+
+            set
+            {
+                this.currentHP = value < 0 ? 0 : value;
+            }
+        }
+
+        public virtual void Attack(Pokemon other)
+        {
+            other.CurrentHP -= 10;
+        }
+
+        public override string ToString()
+        {
+            return string.Format(@"National
+No.{0},
+Name:{1},
+CP:{2},
+HP:{3}/{4}",
+                                            Number, Name, CP, CurrentHP, HP);
         }
     }
 }

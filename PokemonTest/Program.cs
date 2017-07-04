@@ -11,10 +11,16 @@ namespace PokemonTest
     {
         private static void Main(string[] args)
         {
-            int number1 = int.Parse(args[0]);
-            int number2 = int.Parse(args[1]);
-            Pokemon pokemon1 = PokemonFactory.Create(1);
-            Pokemon pokemon2 = PokemonFactory.Create(2);
+            Pokemon p1 = PokemonFactory.Generate();
+            Pokemon p2 = PokemonFactory.Generate();
+
+            Console.WriteLine("P1攻擊P2前:");
+            Console.WriteLine(p1);
+            Console.WriteLine(p2);
+            p1.Attack(p2);
+            Console.WriteLine("P1攻擊P2後:");
+            Console.WriteLine(p1);
+            Console.WriteLine(p2);
         }
     }
 }
