@@ -1,0 +1,17 @@
+C:\Users\Peggy\Documents\New1\GameRun\GameRun\bin\Debug\GameRun.exe.config
+C:\Users\Peggy\Documents\New1\GameRun\GameRun\bin\Debug\GameRun.exe
+C:\Users\Peggy\Documents\New1\GameRun\GameRun\bin\Debug\GameRun.pdb
+C:\Users\Peggy\Documents\New1\GameRun\GameRun\obj\Debug\GameRun.csprojResolveAssemblyReference.cache
+C:\Users\Peggy\Documents\New1\GameRun\GameRun\obj\Debug\GameRun.MainWindow.resources
+C:\Users\Peggy\Documents\New1\GameRun\GameRun\obj\Debug\GameRun.Properties.Resources.resources
+C:\Users\Peggy\Documents\New1\GameRun\GameRun\obj\Debug\GameRun.csproj.GenerateResource.Cache
+C:\Users\Peggy\Documents\New1\GameRun\GameRun\obj\Debug\GameRun.exe
+C:\Users\Peggy\Documents\New1\GameRun\GameRun\obj\Debug\GameRun.pdb
+C:\Users\Peggy\Documents\New1\GameRun\GameRun\bin\Debug\EasyMathLibrary.dll
+C:\Users\Peggy\Documents\New1\GameRun\GameRun\bin\Debug\EasyMathLibrary.pdb
+C:\Users\Peggy\Documents\New1\GameRun\GameRun\obj\Debug\GameRun.BattleScreen.resources
+C:\Users\Peggy\Documents\New1\GameRun\GameRun\bin\Debug\GameRunLibrary.dll
+C:\Users\Peggy\Documents\New1\GameRun\GameRun\bin\Debug\GameRunLibrary.pdb
+C:\Users\Peggy\Documents\New1\GameRun\GameRun\obj\Debug\GameRun.Backpack.resources
+C:\Users\Peggy\Documents\New1\GameRun\GameRun\obj\Debug\GameRun.PropsBox.resources
+C:\Users\Peggy\Documents\New1\GameRun\GameRun\obj\Debug\GameRun.開寶.resources

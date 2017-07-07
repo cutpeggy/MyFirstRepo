@@ -1,0 +1,5 @@
+C:\Users\Peggy\Documents\New1\GameRun\WeaponLibrary\bin\Debug\WeaponLibrary.dll
+C:\Users\Peggy\Documents\New1\GameRun\WeaponLibrary\bin\Debug\WeaponLibrary.pdb
+C:\Users\Peggy\Documents\New1\GameRun\WeaponLibrary\obj\Debug\PropsLibrary.csprojResolveAssemblyReference.cache
+C:\Users\Peggy\Documents\New1\GameRun\WeaponLibrary\obj\Debug\WeaponLibrary.dll
+C:\Users\Peggy\Documents\New1\GameRun\WeaponLibrary\obj\Debug\WeaponLibrary.pdb
